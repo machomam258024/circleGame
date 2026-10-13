@@ -35,7 +35,7 @@ public class SpawnManager : MonoBehaviour
    [Header("웨이브 설정")]
     public Wave[] waves;
 
-    void Start()
+    public void StartSpawn()
     {
         StartCoroutine(SpawnWavesRoutine());
     }

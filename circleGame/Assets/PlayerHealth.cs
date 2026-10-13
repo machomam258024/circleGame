@@ -26,12 +26,32 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        // 부딪힌 오브젝트의 태그가 "적의 총알"인지 확인합니다.
+        if (other.CompareTag("EnemyBullet"))
+        {
+            Bullet bullet = other.GetComponent<Bullet>();
+            if (bullet != null)
+            {
+                TakeDamage(bullet.damage);
+            }
+            
+            // 맞은 총알은 삭제합니다.
+            Destroy(other.gameObject);
+        }
+    }
+
     void Die()
     {
-        Debug.Log("💀 플레이어 사망! 게임 오버!");
-        
-        // 당장은 플레이어 오브젝트를 파괴하도록 하지만, 
-        // 나중에는 파괴 대신 '게임 오버 화면 띄우기'를 여기에 연결하면 됩니다.
-        Destroy(gameObject);
+        Debug.Log("플레이어 사망...");
+
+        // ★ GameManager에게 게임 오버 신호를 보냅니다!
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.GameOver();
+        }
+
+        Destroy(gameObject); // 플레이어 기체 파괴
     }
 }

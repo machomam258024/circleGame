@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 7990edd59e8064c4e831f47e7d4b51f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4849613844341778384
+    second: WellDonePlanetImage_0
+  - first:
+      213: 8922706744786198661
+    second: WellDonePlanetImage_1
+  - first:
+      213: 8480532034933297519
+    second: WellDonePlanetImage_2
+  - first:
+      213: 4974906738771477856
+    second: WellDonePlanetImage_3
+  - first:
+      213: 5004643494141905782
+    second: WellDonePlanetImage_4
+  - first:
+      213: 6504815023611126804
+    second: WellDonePlanetImage_5
+  - first:
+      213: 2082866034187079203
+    second: WellDonePlanetImage_6
+  - first:
+      213: 2266321642576073619
+    second: WellDonePlanetImage_7
+  - first:
+      213: -6948775532780145494
+    second: WellDonePlanetImage_8
+  - first:
+      213: -6061289031455479495
+    second: WellDonePlanetImage_9
+  - first:
+      213: 7875266589042764769
+    second: WellDonePlanetImage_10
+  - first:
+      213: 9219080627619529314
+    second: WellDonePlanetImage_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WellDonePlanetImage_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 713
+        width: 182
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7eec9d81a4d4340800000000000000
+      internalID: 4849613844341778384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WellDonePlanetImage_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 886
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580a6f58282d3db70800000000000000
+      internalID: 8922706744786198661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WellDonePlanetImage_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 703
+        width: 183
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61158834f6e0b570800000000000000
+      internalID: 8480532034933297519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WellDonePlanetImage_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 710
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065cb2b125b6a0540800000000000000
+      internalID: 4974906738771477856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WellDonePlanetImage_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 772
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b4ccffdb0147540800000000000000
+      internalID: 5004643494141905782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WellDonePlanetImage_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 714
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41427fbccceb54a50800000000000000
+      internalID: 6504815023611126804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WellDonePlanetImage_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 423
+        width: 188
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e82726f93d7ec10800000000000000
+      internalID: 2082866034187079203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WellDonePlanetImage_7
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 421
+        width: 187
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393d684c687937f10800000000000000
+      internalID: 2266321642576073619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WellDonePlanetImage_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 422
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4b6b8187df09f90800000000000000
+      internalID: -6948775532780145494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WellDonePlanetImage_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 109
+        width: 202
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939ef1f6db9f1eba0800000000000000
+      internalID: -6061289031455479495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WellDonePlanetImage_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 111
+        width: 226
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb656fdc319a4d60800000000000000
+      internalID: 7875266589042764769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WellDonePlanetImage_11
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 112
+        width: 185
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26282fc6cf0c0ff70800000000000000
+      internalID: 9219080627619529314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WellDonePlanetImage_0: 4849613844341778384
+      WellDonePlanetImage_1: 8922706744786198661
+      WellDonePlanetImage_10: 7875266589042764769
+      WellDonePlanetImage_11: 9219080627619529314
+      WellDonePlanetImage_2: 8480532034933297519
+      WellDonePlanetImage_3: 4974906738771477856
+      WellDonePlanetImage_4: 5004643494141905782
+      WellDonePlanetImage_5: 6504815023611126804
+      WellDonePlanetImage_6: 2082866034187079203
+      WellDonePlanetImage_7: 2266321642576073619
+      WellDonePlanetImage_8: -6948775532780145494
+      WellDonePlanetImage_9: -6061289031455479495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

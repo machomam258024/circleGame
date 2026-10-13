@@ -23,7 +23,7 @@ public class BackgroundScroll : MonoBehaviour
     void RepositionBackground()
     {
         // 3. 현재 위치에서 (세로 길이의 2배)만큼 위로 끌어올려 맨 뒤로 순간이동시킵니다.
-        Vector2 resetPosition = new Vector2(transform.position.x, transform.position.y + backgroundHeight * 2f);
+        Vector3 resetPosition = new Vector3(transform.position.x, transform.position.y + backgroundHeight * 2f, 10);
         transform.position = resetPosition;
     }
 }
